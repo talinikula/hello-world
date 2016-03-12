@@ -1,2 +1,3 @@
 # hello-world
-place where to store ideas, resources etc.
+
+engineering skills and creativity, 'out of box' thinking is my forte.
